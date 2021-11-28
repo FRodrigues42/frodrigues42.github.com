@@ -10,6 +10,8 @@ Lisbon, Portugal
 
 # Fernando Rodrigues
 
+Having already worked for 5 years, I am a developer not afraid of challenges. I always strive to contribute to a better product and environment by trying new ideas and refining the older ones.  I also try to improve myself by learning and by activaly asking for feedback with my team and peers.
+
 ## Languages, Technologies & Skills
 
 - Java, Kotlin, Springboot 2
@@ -18,18 +20,17 @@ Lisbon, Portugal
 - Python, Bash
 - Kubernetes, Istio, Traefik
 - Gradle, Maven
-- Domain Driven Design, REST API
+- Domain-Driven Design, REST API
 
 ## Experience
 
-5 years
+5 years of professional experience.
 
 ### Bold | Developer | Sep 2021 - Present
 
-- Business in a more programmatically and user friendly way of creation and redeemption of US ETF shares on primary financial market.
-- Worked in a Springboot 2 backend using Java 8 and Oracle DB.
-- Frontend developed with Angular and Typescript.
-- Unit tests with junit and mockito.
+- Helped to solve the problems of managing the creation and redemption of US ETF shares on the primary market in a more programmatically and user-friendly way.
+- Worked in a Springboot 2 backend using Java 8 and Oracle DB and an Angular frontend with Typescript.
+- Wrote unit tests with JUnit and Mockito.
 - Followed Scrum agile methodology.
 
 ### Branden | Lead Developer | Feb 2018 - Present
@@ -40,7 +41,6 @@ Lisbon, Portugal
 - Designed and developed the API with the REST philosophy and a modular backend in Kotlin.
 - Developed tests based on behavior and using an Integration first philosophy with Kotest.
 - Currently updating the build logic to Maven.
-- Currently starting the development of the frontend in Angular.
 
 
 ### CGI | Junior Developer | Mar 2017 - Jan 2018
